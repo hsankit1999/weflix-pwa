@@ -16,7 +16,7 @@
   "author": "Ankit",
   "contributors": [],
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "http-server": "^0.11.1"
   }
 }
