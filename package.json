@@ -1,0 +1,22 @@
+{
+  "name": "web-flix",
+  "version": "1.0.0",
+  "description": "Progressive Web App template with zero build steps.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server --cors ./source"
+  },
+  "keywords": [
+    "html",
+    "pwa",
+    "simple",
+    "webapp"
+  ],
+  "author": "Ankit",
+  "contributors": [],
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
